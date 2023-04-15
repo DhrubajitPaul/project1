@@ -1,0 +1,9 @@
+{
+  "id": "b0e3d834-90b6-4843-8810-9273c647c011",
+  "name": "vehicle_type",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

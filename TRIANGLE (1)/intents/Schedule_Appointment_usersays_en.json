@@ -1,0 +1,302 @@
+[
+  {
+    "id": "18692d43-ac07-497a-9056-69bb22d702ca",
+    "data": [
+      {
+        "text": "Telengana",
+        "meta": "@choose_hospital",
+        "alias": "choose_hospital",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f5c5cf9d-9d0b-441c-8e48-6d18b1bcbb44",
+    "data": [
+      {
+        "text": "Hyderabad",
+        "meta": "@choose_hospital",
+        "alias": "choose_hospital",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "bc0ee75e-9f65-4282-850d-10fb1916b6a3",
+    "data": [
+      {
+        "text": "karnataka",
+        "meta": "@choose_hospital",
+        "alias": "choose_hospital",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "374241a0-3e4c-44f6-bfdb-a8b0449eebfb",
+    "data": [
+      {
+        "text": "Bengaluru",
+        "meta": "@choose_hospital",
+        "alias": "choose_hospital",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "15972e5f-e294-4ff4-8396-ab350a3cdd02",
+    "data": [
+      {
+        "text": "Bangalore",
+        "meta": "@choose_hospital",
+        "alias": "choose_hospital",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8a95479f-5bd4-4944-a2c8-95b0d89595cb",
+    "data": [
+      {
+        "text": "Tamil Nadu",
+        "meta": "@choose_hospital",
+        "alias": "choose_hospital",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0a7c3ba0-891e-42d0-ad2c-4dff80f78cbe",
+    "data": [
+      {
+        "text": "Chennai",
+        "meta": "@choose_hospital",
+        "alias": "choose_hospital",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "da931a6c-5bf9-4734-bdad-6fd732ce5075",
+    "data": [
+      {
+        "text": "Triangle ( Chennai )",
+        "meta": "@choose_hospital",
+        "alias": "choose_hospital",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "abe175ea-0b9c-4d14-8628-afbbcf1ceb7e",
+    "data": [
+      {
+        "text": "Triangle ( Bangalore )",
+        "meta": "@choose_hospital",
+        "alias": "choose_hospital",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c76a6c48-89af-487c-be3d-07c2c55abe4d",
+    "data": [
+      {
+        "text": "Triangle ( Hyderabad )",
+        "meta": "@choose_hospital",
+        "alias": "choose_hospital",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "202ee526-85b7-4a8f-96e8-5f7bc86be016",
+    "data": [
+      {
+        "text": "Dr. Aravind G.M",
+        "meta": "@choose_doctors",
+        "alias": "choose_doctor",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "16324d12-4653-4640-9a97-a4434c99699f",
+    "data": [
+      {
+        "text": "Dr. Asha R",
+        "meta": "@choose_doctors",
+        "alias": "choose_doctor",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "15a177d7-a3e3-40f1-9738-ba98fcef758c",
+    "data": [
+      {
+        "text": "at 10pm",
+        "meta": "@sys.time",
+        "alias": "time",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a4e5b15e-7414-4f01-b3db-b71e2d92768b",
+    "data": [
+      {
+        "text": "2nd of April",
+        "meta": "@sys.date",
+        "alias": "date",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "65260e7a-5141-43c1-9aba-59a107de46ff",
+    "data": [
+      {
+        "text": "01952575100",
+        "meta": "@sys.phone-number",
+        "alias": "phone-number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "44d66e8b-c14e-44ca-989b-4922c75676e8",
+    "data": [
+      {
+        "text": "9353891538",
+        "meta": "@sys.phone-number",
+        "alias": "phone-number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8ebdb62e-35ee-4da5-8871-e3118071cc49",
+    "data": [
+      {
+        "text": "nanapatekar@gmail.com",
+        "meta": "@sys.email",
+        "alias": "email",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7b4e0b4c-3c96-4ae4-bb72-aa1ad52579d4",
+    "data": [
+      {
+        "text": "Subramanyam pandey",
+        "meta": "@sys.person",
+        "alias": "person",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "926be71f-fc45-4de3-8e5e-5f9d4d194a84",
+    "data": [
+      {
+        "text": "Racheal Rathore",
+        "meta": "@sys.person",
+        "alias": "person",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b2927851-4529-4dea-90e9-67872d5c5bee",
+    "data": [
+      {
+        "text": "Malvin Prince",
+        "meta": "@sys.person",
+        "alias": "person",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

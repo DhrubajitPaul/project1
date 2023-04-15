@@ -1,0 +1,71 @@
+{
+  "id": "e4d84782-b5a4-4ccf-8c2f-0dc44c47b78b",
+  "name": "Default Welcome Intent",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "input.welcome",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "30e44475-92ad-46bc-a1ac-fbcf0bedd878",
+          "name": "date-time",
+          "required": false,
+          "dataType": "@sys.date-time",
+          "value": "$date-time",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "4",
+          "title": "",
+          "payload": {
+            "quick_replies": {
+              "title": "Hi there! Welcome to Triangle Healthcare, Please choose a Branch : ",
+              "quick_replies": [
+                "Triangle ( Bangalore )",
+                "Triangle ( Chennai )",
+                "Triangle ( Hyderabad )"
+              ]
+            }
+          },
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Hi there! Thanks for choosing Triangle healthcare. Please select a branch where you want to avail the service. \n1) Triangle - Bangalore\n2) Triangle -- Hyderabad\n3) Triangle -- Chennai"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": true,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "WELCOME"
+    }
+  ],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

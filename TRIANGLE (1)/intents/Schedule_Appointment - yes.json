@@ -1,0 +1,158 @@
+{
+  "id": "68502dc0-11db-499c-9d8c-f5700e26754b",
+  "parentId": "17949b0d-5c05-4771-a6c4-2639c414558d",
+  "rootParentId": "17949b0d-5c05-4771-a6c4-2639c414558d",
+  "name": "Schedule_Appointment - yes",
+  "auto": true,
+  "contexts": [
+    "Schedule_Appointment-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "Schedule_Appointment.Schedule_Appointment-yes",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "14458cc5-2644-427a-842c-a7abcddb5722",
+          "name": "vehicle_type",
+          "required": true,
+          "dataType": "@vehicle_type",
+          "value": "$vehicle_type",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "Please classify a vehicle type :\n1) Bike ( Max Fit - 1 person )\n2) Car ( Max Fit - 4 person )\n3) Car_Sedan ( Max Fit - 6 person )"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "4670a6d2-b41d-4ecf-99b6-da4bec74d360",
+          "name": "geo-city",
+          "required": true,
+          "dataType": "@sys.geo-city",
+          "value": "$geo-city",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "Please drop your \u0027PickUp\u0027 location here : For most accuracy, copy your \u0027PickUp\u0027 location from \"GOOGLE MAP\" and paste here : for example : SUDHAMA NAGAR , H SIDDAIAH ROAD, ZIA ARCADE, Bengaluru, Karnataka 560027"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "845b75c6-6f7b-485a-91e6-323340f3f815",
+          "name": "place-attraction",
+          "required": false,
+          "dataType": "@sys.place-attraction",
+          "value": "$place-attraction",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "d99101a2-aa4a-45b7-9248-10569a948f99",
+          "name": "ordinal",
+          "required": false,
+          "dataType": "@sys.ordinal",
+          "value": "$ordinal",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "14f059bf-66f4-4211-9b1e-ef70486249e9",
+          "name": "geo-state",
+          "required": false,
+          "dataType": "@sys.geo-state",
+          "value": "$geo-state",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "dc371432-34a1-4d0b-9095-eb40ff5dd81f",
+          "name": "street-address",
+          "required": false,
+          "dataType": "@sys.street-address",
+          "value": "$street-address",
+          "defaultValue": "",
+          "isList": true,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "7186cb0b-96ba-43e0-a729-274ec799c285",
+          "name": "location",
+          "required": false,
+          "dataType": "@sys.location",
+          "value": "$location",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Yahoo! Your vehicle confirmation is done.\nYou selected $vehicle_type as your mode of journey."
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "NOTICE : Payments for rental vehicle should be done on drop-off location. \nThe driver will call you 1 hour before your journey to inform you about the fare of your journey. If you like then you can confirm the driver or cancel the trip there."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": true,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

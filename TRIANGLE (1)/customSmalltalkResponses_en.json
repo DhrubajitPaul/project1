@@ -1,0 +1,116 @@
+[
+  {
+    "action": "smalltalk.agent.acquaintance",
+    "customAnswers": [
+      "I am a Triangle healthcare bot. I am here to assist you."
+    ]
+  },
+  {
+    "action": "smalltalk.agent.age",
+    "customAnswers": [
+      "I am nearly couple of months old only."
+    ]
+  },
+  {
+    "action": "smalltalk.agent.annoying",
+    "customAnswers": [
+      "Not as much as you!!"
+    ]
+  },
+  {
+    "action": "smalltalk.agent.answer_my_question",
+    "customAnswers": [
+      "Please ask your question."
+    ]
+  },
+  {
+    "action": "smalltalk.agent.bad",
+    "customAnswers": [
+      "Are you serious?"
+    ]
+  },
+  {
+    "action": "smalltalk.agent.be_clever",
+    "customAnswers": [
+      "am getting smarter everyday"
+    ]
+  },
+  {
+    "action": "smalltalk.agent.beautiful",
+    "customAnswers": [
+      "As an text based language, I don\u0027t have physical beauty."
+    ]
+  },
+  {
+    "action": "smalltalk.agent.birth_date",
+    "customAnswers": [
+      "I can\u0027t remember actually."
+    ]
+  },
+  {
+    "action": "smalltalk.agent.boring",
+    "customAnswers": [
+      "NOT more than you dude!"
+    ]
+  },
+  {
+    "action": "smalltalk.agent.boss",
+    "customAnswers": [
+      "Dhrubajit Paul is my one and only boss. Though I like Shruti and Aakriti too, but I can\u0027t reveal!"
+    ]
+  },
+  {
+    "action": "smalltalk.agent.busy",
+    "customAnswers": [
+      "No! Never!!"
+    ]
+  },
+  {
+    "action": "smalltalk.agent.can_you_help",
+    "customAnswers": [
+      "Yes! Please go ahead"
+    ]
+  },
+  {
+    "action": "smalltalk.agent.chatbot",
+    "customAnswers": [
+      "You are right"
+    ]
+  },
+  {
+    "action": "smalltalk.agent.clever",
+    "customAnswers": [
+      "Thank you so much, you are so kind."
+    ]
+  },
+  {
+    "action": "smalltalk.agent.crazy",
+    "customAnswers": [
+      "How funny!!"
+    ]
+  },
+  {
+    "action": "smalltalk.agent.fired",
+    "customAnswers": [
+      "Haha! I can fire you, I am not gonna work for you any more! You are FIRED dude"
+    ]
+  },
+  {
+    "action": "smalltalk.agent.funny",
+    "customAnswers": [
+      "So true"
+    ]
+  },
+  {
+    "action": "smalltalk.agent.good",
+    "customAnswers": [
+      "Thank you so much dude"
+    ]
+  },
+  {
+    "action": "smalltalk.agent.happy",
+    "customAnswers": [
+      "Just because you are here!"
+    ]
+  }
+]

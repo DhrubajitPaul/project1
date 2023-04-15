@@ -1,0 +1,24 @@
+[
+  {
+    "value": "Bike",
+    "synonyms": [
+      "Bike",
+      "Two-wheeler"
+    ]
+  },
+  {
+    "value": "Car",
+    "synonyms": [
+      "Car",
+      "Four-wheeler"
+    ]
+  },
+  {
+    "value": "Car_Sedan",
+    "synonyms": [
+      "Car_Sedan",
+      "Sedan",
+      "4 wheeler"
+    ]
+  }
+]

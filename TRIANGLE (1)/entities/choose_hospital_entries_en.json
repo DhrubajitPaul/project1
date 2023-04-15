@@ -1,0 +1,27 @@
+[
+  {
+    "value": "Triangle ( Bangalore )",
+    "synonyms": [
+      "Triangle ( Bangalore )",
+      "bangalore",
+      "bengaluru",
+      "karnataka"
+    ]
+  },
+  {
+    "value": "Triangle ( Chennai )",
+    "synonyms": [
+      "Triangle ( Chennai )",
+      "Chennai",
+      "tamil nadu"
+    ]
+  },
+  {
+    "value": "Triangle ( Hyderabad)",
+    "synonyms": [
+      "Triangle ( Hyderabad)",
+      "Hyderabad",
+      "Telengana"
+    ]
+  }
+]

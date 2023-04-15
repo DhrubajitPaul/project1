@@ -1,0 +1,50 @@
+{
+  "id": "39ffb892-00d1-4740-abed-46b9d774ac45",
+  "name": "Triangle - Bangalore",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "6c37dcd8-ec90-4625-bfce-c96b9936d301",
+          "name": "choose_hospital",
+          "required": false,
+          "dataType": "@choose_hospital",
+          "value": "$choose_hospital",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Thanks for choosing $choose_hospital \nSelect your healthcare specialist :\n1) Dr. Mohan Badagandi\n2) Dr. Kamal Bhalla\n3) Dr. Asha R"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": true,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,50 @@
+{
+  "id": "c4170ae7-5ac6-427e-825f-6dc9ec6d7f80",
+  "name": "Triangle - Hyderabad",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "2124ed2d-7a8c-41e1-ac6f-e6405c97ccc4",
+          "name": "choose_hospital",
+          "required": false,
+          "dataType": "@choose_hospital",
+          "value": "$choose_hospital",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Thanks for choosing $choose_hospital \nSelect your healthcare specialist :\n1) Dr. Aravind G. M.\n2) Dr. Girikumar Venati\n3) Dr. Ahmed Husain"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": true,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

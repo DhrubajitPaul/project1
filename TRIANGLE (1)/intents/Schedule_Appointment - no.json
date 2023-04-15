@@ -1,0 +1,39 @@
+{
+  "id": "4d9e245f-64cd-4960-b11b-413afc58dbae",
+  "parentId": "17949b0d-5c05-4771-a6c4-2639c414558d",
+  "rootParentId": "17949b0d-5c05-4771-a6c4-2639c414558d",
+  "name": "Schedule_Appointment - no",
+  "auto": true,
+  "contexts": [
+    "Schedule_Appointment-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "Schedule_Appointment.Schedule_Appointment-no",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "No problem! See you soon."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": true,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

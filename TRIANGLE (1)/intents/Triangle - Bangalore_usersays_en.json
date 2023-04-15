@@ -1,0 +1,77 @@
+[
+  {
+    "id": "4da10f49-6777-4dff-bb83-ed0048e69bb5",
+    "data": [
+      {
+        "text": "karnataka",
+        "meta": "@choose_hospital",
+        "alias": "choose_hospital",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "43622c11-885b-4dda-bf33-9c13b50b424d",
+    "data": [
+      {
+        "text": "bangalore",
+        "meta": "@choose_hospital",
+        "alias": "choose_hospital",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "74f73e35-05fe-4fbd-b66f-c4e692d4d8bb",
+    "data": [
+      {
+        "text": "bengaluru",
+        "meta": "@choose_hospital",
+        "alias": "choose_hospital",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "490e613f-ff7e-4327-afde-a4d017014214",
+    "data": [
+      {
+        "text": "Triangle Bangalore",
+        "meta": "@choose_hospital",
+        "alias": "choose_hospital",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1d150e74-5c29-4f14-aca7-db0dc19dad1c",
+    "data": [
+      {
+        "text": "Triangle ( Bangalore )",
+        "meta": "@choose_hospital",
+        "alias": "choose_hospital",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

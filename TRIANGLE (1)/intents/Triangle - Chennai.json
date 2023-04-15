@@ -1,0 +1,50 @@
+{
+  "id": "fd2cbbb6-c8ce-4079-9eb0-be022a1caa7a",
+  "name": "Triangle - Chennai",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "d8422242-d348-4159-ab05-35f47d4b7ca4",
+          "name": "choose_hospital",
+          "required": false,
+          "dataType": "@choose_hospital",
+          "value": "$choose_hospital",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Thanks for choosing $choose_hospital \nSelect your healthcare specialist :\n1) Dr. Shivaprasad C\n2) Dr. Pratyush M\n3) Dr. Ashok.M.L"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": true,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

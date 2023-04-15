@@ -1,0 +1,47 @@
+[
+  {
+    "id": "1cb9e110-667a-45c5-b7c7-8dfb20fdfcf2",
+    "data": [
+      {
+        "text": "Dr. Ahmed Husain",
+        "meta": "@choose_doctors",
+        "alias": "choose_doctors",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d5c320ee-17c1-450a-877c-328a8db1e009",
+    "data": [
+      {
+        "text": "Dr. Girikumar Venati",
+        "meta": "@choose_doctors",
+        "alias": "choose_doctors",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0ba2f237-9eb3-4932-b944-eadba67a9bb2",
+    "data": [
+      {
+        "text": "Dr. Aravind G. M.",
+        "meta": "@choose_doctors",
+        "alias": "choose_doctors",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

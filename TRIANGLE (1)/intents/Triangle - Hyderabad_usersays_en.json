@@ -1,0 +1,47 @@
+[
+  {
+    "id": "207fcbd6-6b56-477c-b0e9-62ed70e0f43b",
+    "data": [
+      {
+        "text": "Telengana",
+        "meta": "@choose_hospital",
+        "alias": "choose_hospital",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "fc37350a-8a51-4f79-8181-fd00a9181c2d",
+    "data": [
+      {
+        "text": "Triangle ( Hyderabad )",
+        "meta": "@choose_hospital",
+        "alias": "choose_hospital",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "41e2ba03-64e6-4a98-8efa-a26e87fde40a",
+    "data": [
+      {
+        "text": "Hyderabad",
+        "meta": "@choose_hospital",
+        "alias": "choose_hospital",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

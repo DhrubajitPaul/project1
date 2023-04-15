@@ -1,0 +1,47 @@
+[
+  {
+    "id": "67055a3d-0e98-470a-a364-caa5d835ad8d",
+    "data": [
+      {
+        "text": "Dr. Shivaprasad C",
+        "meta": "@choose_doctors",
+        "alias": "choose_doctors",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "13139b32-dee1-42ca-86f1-15551ed3b590",
+    "data": [
+      {
+        "text": "Dr. Pratyush M",
+        "meta": "@choose_doctors",
+        "alias": "choose_doctors",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3321ebe3-23a3-4db7-a1ce-c7f540c457e4",
+    "data": [
+      {
+        "text": "Dr. Ashok.M.L",
+        "meta": "@choose_doctors",
+        "alias": "choose_doctors",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

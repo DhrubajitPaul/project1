@@ -1,0 +1,9 @@
+{
+  "id": "fbc4f2fd-58c6-4928-867c-499b084b7344",
+  "name": "choose_hospital",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": true,
+  "allowFuzzyExtraction": false
+}

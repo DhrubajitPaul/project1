@@ -1,0 +1,62 @@
+[
+  {
+    "id": "27f9f764-9dca-4ec9-bfd1-beb1891bedd9",
+    "data": [
+      {
+        "text": "Triangle Chennai",
+        "meta": "@choose_hospital",
+        "alias": "choose_hospital",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9d7bae5b-15af-46f9-aa18-cb190e143ec1",
+    "data": [
+      {
+        "text": "Tamil Nadu",
+        "meta": "@choose_hospital",
+        "alias": "choose_hospital",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "45d637e8-d923-41aa-a357-537ccaba5a0b",
+    "data": [
+      {
+        "text": "Chennai",
+        "meta": "@choose_hospital",
+        "alias": "choose_hospital",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1037f792-681e-4244-887e-031aca253a5f",
+    "data": [
+      {
+        "text": "Triangle ( Chennai )",
+        "meta": "@choose_hospital",
+        "alias": "choose_hospital",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

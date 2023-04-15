@@ -1,0 +1,50 @@
+{
+  "id": "5683986a-173c-48aa-9eed-a06c1c17fbed",
+  "name": "TRIANGLE_hyd_doctors",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "1352c62f-e06f-4773-8aa9-d375af1bf189",
+          "name": "choose_doctors",
+          "required": false,
+          "dataType": "@choose_doctors",
+          "value": "$choose_doctors",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "You have selected $choose_doctors as your healthcare specialist. \nPlease go through required fields to confirm your appointment : \n\nMay I know your name?"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": true,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

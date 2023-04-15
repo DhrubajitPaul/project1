@@ -1,0 +1,47 @@
+[
+  {
+    "id": "daa6ee28-ceb2-4b1c-afa5-9eb179a0d9d8",
+    "data": [
+      {
+        "text": "1) Dr. Asha R",
+        "meta": "@choose_doctors",
+        "alias": "choose_doctors",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "dd6c3cff-c433-47ef-8fb0-9fd033f3676c",
+    "data": [
+      {
+        "text": "2) Dr. Kamal Bhalla",
+        "meta": "@choose_doctors",
+        "alias": "choose_doctors",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e0b889f9-b07c-45bb-b882-ba194266f1b3",
+    "data": [
+      {
+        "text": "3) Dr. Mohan Badagandi",
+        "meta": "@choose_doctors",
+        "alias": "choose_doctors",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]
